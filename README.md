@@ -16,10 +16,6 @@ A desktop focus companion built with Python and Tkinter.
 - Tkinter
 - Pillow
 
-## Screenshot
-
-![Chaya](screenshots/chaya.png)
-
 ## AI Disclosure
 
 This project was created as a personal learning project.
